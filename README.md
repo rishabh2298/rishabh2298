@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My skills 😄**
 
-- 🌱 I’m currently learning **JDBC,MySQL**
+- 🌱 I’m currently learning **Hibernate,SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://rishabh2298.github.io/](https://rishabh2298.github.io/)
 
