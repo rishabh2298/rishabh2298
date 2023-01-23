@@ -41,23 +41,23 @@
 
 #
 
-<!--  git calender
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh2298&show_icons=true&locale=en&layout=compact" alt="rishabh2298" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh2298&show_icons=true&locale=en" alt="rishabh2298" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh2298&" alt="rishabh2298" /></p>
-
--->
-
-# 📊 GitHub Stats:
+<!--  git stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rishabh2298&show_icons=true&theme=dark&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh2298&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh2298&theme=dark&count_private=true" align="center" />
 </p>
+
+-->
+
+# 📊 GitHub Stats:
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh2298&show_icons=true&theme=dark&locale=en&layout=compact" alt="rishabh2298" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh2298&show_icons=true&theme=dark&locale=en" alt="rishabh2298" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh2298&theme=dark&" alt="rishabh2298" /></p>
 
 #
 
