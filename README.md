@@ -39,7 +39,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,aws,hibernate,js,html,css,eclipse,git,github,netlify,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,hibernate,js,html,css,eclipse,git,github,netlify,vscode&theme=dark)](https://skillicons.dev)
   
 #
 
@@ -52,8 +52,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rishabh2298&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh2298&theme=dark&count_private=true" align="center" />
 </p>
+ -->
 
--->
 
 # 📊 GitHub Stats:
 
