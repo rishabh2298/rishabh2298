@@ -45,8 +45,6 @@
 
 #
 
-#
-
 <!--  git stats
 
 <p align="center">
@@ -55,6 +53,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh2298&theme=dark&count_private=true" align="center" />
 </p>
  -->
+
+#
 
 
 # 📊 GitHub Stats:
@@ -65,7 +65,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh2298&theme=dark&" alt="rishabh2298" /></p>
 
-#
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabh2298&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabh2298&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishabh2298&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">   
+</div>
+
 
 #
 
