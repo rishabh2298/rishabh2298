@@ -6,7 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hello...+I'm+Rishabh+Mishra+!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%; height: 80%;">
 
 
-
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
   
   
