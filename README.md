@@ -13,7 +13,7 @@
   
   
 - 🔭 I’m currently working on *MySkill 😄*
-- 🌱 I’m currently learning *Backend Development*
+- 🌱 I’m a *Backend Developer*
 - 💬 Ask me about *Java*
 - 👨‍💻 All of my projects are available at [My Portfolio](https://rishabh2298.github.io/)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1NNh9erGcpnTOsnT-QZYiT6JRFQn83dui/view)
