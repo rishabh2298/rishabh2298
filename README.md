@@ -12,9 +12,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh2298&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh2298" /> </p>
   
   
-- 🔭 I’m currently working on *MySkill 😄*
+- 🔭 I’m currently working on *MySkills 😄*
 - 🌱 I’m a *Backend Developer*
-- 💬 Ask me about *Java*
+- 💬 Ask me about *Java JDBC ORM Spring Frameworks*
 - 👨‍💻 All of my projects are available at [My Portfolio](https://rishabh2298.github.io/)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1NNh9erGcpnTOsnT-QZYiT6JRFQn83dui/view)
 - 📫 How to reach me: ...*rishabhmishra2298@gmail.com*
