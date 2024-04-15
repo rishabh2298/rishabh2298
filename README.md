@@ -74,7 +74,6 @@
 
 #
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rishabh2298&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
