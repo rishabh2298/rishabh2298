@@ -1,7 +1,6 @@
 <h1 align="center"> Hello, I am Rishabh Mishra" 👋</h1>
 <h3 align="center">A passion-driven Java backend developer from India and a learner who wants to improve every day 🙂. Looking for a challenging growth-oriented organization</h3>
 
-
 ![MasterHead](https://camo.githubusercontent.com/425df507b6c04c301faef719046e92b859c274f9ed80ab45f78838459fcbfa63/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30322f37382f33372f34372f3336305f465f3237383337343733385f7970526e3075744f566e656275686d7053724469776b7a46736471456d3061612e6a7067)
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=eeb63e&amp;size=20&amp;lines=Hello...+Rishabh+Mishra+this+side+!;Java+Back-end+Developer...👨🏻‍💻;" style="width: 100%; height: 80%;">
 
