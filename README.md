@@ -29,7 +29,6 @@
 
 #
 
-
 # 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,hibernate,js,html,css,eclipse,git,github,netlify,vscode&theme=dark)](https://skillicons.dev)
