@@ -8,7 +8,6 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh2298&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh2298" /> </p>
   
-  
 - 🔭 I’m currently working on *MySkills 😄*
 - 🌱 I’m a *Backend Developer*
 - 💬 Ask me about *Java JDBC ORM Spring Frameworks*
