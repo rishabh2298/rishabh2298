@@ -16,7 +16,6 @@
 - 📫 How to reach me: ...*rishabhmishra2298@gmail.com*
 - 😄 Pronouns: ...@Rishabh
 - ⚡ Fun fact: ...Always smile 😄 in tough situation
-
 #
 
 # 
